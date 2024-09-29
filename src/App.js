@@ -22,20 +22,7 @@ export default function App() {
       <header className={Css.header}>
         <div className={Css.logo}>
           <div className={Css.logo__image}>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              version="1.0"
-              standalone="no"
-              width="511.000000pt"
-              height="512.000000pt"
-              viewBox="0 0 511.000000 512.000000"
-              preserveAspectRatio="xMidYMid meet"
-              transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
-              fill="#000000" 
-              stroke="none"
-            >
-              <path d="M1278 3 c706 -2 1858 -2 2560 0 702 1 125 2 -1283 2 -1408 0 -1983-1 -1277 -2z" />
-            </svg>
+            <img src="/amprem1" alt="logo"/>
           </div>
           <h1 className={Css.logo__text}>Rudy store</h1>
         </div>
