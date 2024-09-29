@@ -22,7 +22,7 @@ export default function App() {
       <header className={Css.header}>
         <div className={Css.logo}>
           <div className={Css.logo__image}>
-            <img src="/logo512.png" alt="logo"/>
+            <img src="/logo1.png" alt="logo"/>
           </div>
           <h1 className={Css.logo__text}>Rudy store</h1>
         </div>
