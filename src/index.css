@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Teko:wght@300..700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+html {
+  /**
+   * Custom Variable
+   */
+  --max-width: 440px;
+  --blur: blur(3px);
+
+  --primary-color: rgb(80, 120, 255);
+  --bg-color: rgb(24, 33, 54);
+  --bg-color-03: rgba(24, 33, 54, 0.3);
+  --secondary-color: rgb(240, 244, 255);
+  --font-color: rgb(240, 243, 255);
+
+  --heading-font: "Teko", sans-serif;
+  --system-font: "Roboto", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  font-family: var(--system-font);
+  font-size: 1rem;
+  color: var(--font-color);
+  background-color: var(--bg-color);
+  background-image: linear-gradient(0deg, rgb(44, 53, 87) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(44, 53, 87) 1px, transparent 1px);
+  background-size: 23px 23px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--heading-font);
+  font-size: 2rem;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: var(--font-color);
+}
+
+button {
+  background: transparent;
+  border: none;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
