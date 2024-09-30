@@ -100,7 +100,7 @@
   border: 1px solid var(--secondary-color);
   border-radius: 0.7rem;
   padding: 0.9rem;
-  text-align: center;
+  text-align: start;
 }
 
 .card .wrapper .about h2 {
