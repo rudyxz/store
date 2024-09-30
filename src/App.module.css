@@ -116,7 +116,7 @@
 .card .wrapper .testimoni,
 .card .wrapper .channel {
   width: 100%;
-  background: var(--bg-color);
+  background: var(--bg-am);
   padding: 1rem;
   border-radius: 0.7rem;
   font-size: 1.3rem;
