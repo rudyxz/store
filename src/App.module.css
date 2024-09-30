@@ -111,12 +111,13 @@
 .card .wrapper .about p {
   font-size: 1rem;
   font-weight: 500;
+  text-align: start;
 }
 
 .card .wrapper .testimoni,
 .card .wrapper .channel {
   width: 100%;
-  background: var(--bg-am);
+  background: var(--primary-color);
   padding: 1rem;
   border-radius: 0.7rem;
   font-size: 1.3rem;
