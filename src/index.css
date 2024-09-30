@@ -19,6 +19,7 @@ html {
   --bg-color-03: rgba(24, 33, 54, 0.3);
   --secondary-color: rgb(240, 244, 255);
   --font-color: rgb(240, 243, 255);
+  --bg-am: rgb(8, 214, 146);
 
   --heading-font: "Teko", sans-serif;
   --system-font: "Roboto", sans-serif;
