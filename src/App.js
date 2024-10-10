@@ -7,14 +7,14 @@ export default function App() {
       desc: "Alight Motion Premium adalah aplikasi edit video dan animasi dengan fitur lengkap, seperti efek visual, keyframe animasi, dan ekspor tanpa watermark. Versi premium menawarkan lebih banyak efek, dukungan format ekspor, serta pengalaman editing yang lebih profesional, ideal untuk kreator di berbagai level.",
       type: "Product",
       image: "/amprem1.png",
-      url: "https://wa.me/6285142611277",
+      url: "https://wa.me/",
     },
     {
       name: "Alight Motion Premium 2 Tahun",
       desc: "Alight Motion Premium adalah aplikasi edit video dan animasi dengan fitur lengkap, seperti efek visual, keyframe animasi, dan ekspor tanpa watermark. Versi premium menawarkan lebih banyak efek, dukungan format ekspor, serta pengalaman editing yang lebih profesional, ideal untuk kreator di berbagai level.",
       type: "Product",
       image: "/amprem2.png",
-      url: "https://wa.me/6285142611277",
+      url: "https://wa.me/",
     },
   ];
   return (
