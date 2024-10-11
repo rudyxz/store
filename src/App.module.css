@@ -106,12 +106,15 @@
 .card .wrapper .about h2 {
   font-size: 2.3rem;
   font-weight: 600;
+  color: var(--font-color2);
 }
 
 .card .wrapper .about p {
   font-size: 1rem;
   font-weight: 500;
   text-align: start;
+  color: var(--font-color2);
+}
 }
 
 .card .wrapper .testimoni,
