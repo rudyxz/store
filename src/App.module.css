@@ -79,7 +79,7 @@
 
 .container .card {
   width: 100%;
-  background: var(--primary-color);
+  background: var(--bg-color-04);
   border-radius: 1rem 1rem 0rem 0rem;
   padding: 2rem 1.8rem 2rem 1.8rem;
 }
@@ -97,7 +97,7 @@
 
 .card .wrapper .about {
   width: 100%;
-  border: 1px solid var(--secondary-color);
+  border: 2px solid var(--bg-color);
   border-radius: 0.7rem;
   padding: 0.9rem;
   text-align: center;
